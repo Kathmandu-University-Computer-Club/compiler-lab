@@ -1,0 +1,1 @@
+LexicalAnalyzer.d: ../LexicalAnalyzer.c

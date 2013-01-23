@@ -1,0 +1,1 @@
+LeftRecursion.d: ../LeftRecursion.c
